@@ -1,15 +1,14 @@
-
-# Hi,  I'm  Pedro Melo!
-
-[![Github  Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/blzpedro)](https://github.com/blzpedro)
-
-[![Linkedin  Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/pedrohmelo/)](https://www.linkedin.com/in/pedrohmelo/)
-
 ## About  me:
+
+### My name is Pedro Melo
 
 I'm a Front-end Developer :smile:
 
 Currently focusing on Angular 7+, but worked with React, React Native and NodeJS. Learning new things all days.
+
+[![Github  Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/blzpedro)](https://github.com/blzpedro)
+
+[![Linkedin  Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/pedrohmelo/)](https://www.linkedin.com/in/pedrohmelo/)
 
 ## My  specialities:
 
