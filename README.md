@@ -4,7 +4,7 @@
 
 I'm a Front-end Developer :smile:
 
-Currently focusing on Angular 7+, but worked with React, React Native and NodeJS. Learning new things all days.
+Currently focusing on React, NodeJS and AWS Lambdas, but I already worked with Angular 4+, React Native and etc. Learning new things all days.
 
 [![Github  Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/blzpedro)](https://github.com/blzpedro)
 
